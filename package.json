@@ -1,0 +1,16 @@
+{
+  "name": "google-fonts-service-proxy",
+  "version": "1.0.0",
+  "description": "A proxy for the Google Fonts List API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  }
+}
