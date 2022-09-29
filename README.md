@@ -2,7 +2,7 @@
 
 ## The project:
 
-This proxy was created to provide the [Create Block Theme](https://wordpress.org/plugins/create-block-theme/) plugin for [WordPress](https://wordpress.org/) a quick way to access the API without generating a Google API Key.
+This proxy was created to provide the users of the [Create Block Theme](https://wordpress.org/plugins/create-block-theme/) plugin for [WordPress](https://wordpress.org/), a quick way to access the [Google Fonts Developer API](https://developers.google.com/fonts/docs/developer_api) without generating a Google API Key.
 
 ## How to use:
 
